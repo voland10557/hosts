@@ -1,0 +1,22 @@
+pi@pihole:~ $ cat /etc/pihole/regex.list
+# Title: voland10557/regex.list
+# Location: /etc/pihole/regex.list
+# Fetch the latest version of this file: https://raw.githubusercontent.com/voland10557/hosts/master/regex.list
+# Project home page: https://github.com/voland10557/hosts
+# ===============================================================
+.+\.research\.de\.com$
+.+\.mxcdn\.net$
+.+\.districtm\.io$
+.+\.selfcampaign\.com$
+.+\.xplosion\.de$
+.+\.meetrics\.net$
+.+\.adalliance\.io$
+.+\.rubiconproject\.com$
+.+\.matomo\.cloud$
+.+\.mateti\.net$
+.+\.kameleoon\.com$
+.+\.bidswitch\.net$
+.+\.upscore\.com$
+^api.usercentrics.eu$
+^app.usercentrics.eu$
+^.+\.rvty\.net$
